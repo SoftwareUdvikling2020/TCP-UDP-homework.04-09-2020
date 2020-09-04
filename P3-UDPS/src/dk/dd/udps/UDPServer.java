@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.net.*;
 
 /**
- * @author Dora
+ * @author Rasmus Lynge Jacobsen, Magnus Albeck Klitmose, Mathias Baunsgaard Kristensen
  */
 public class UDPServer {
     private static final int serverPort = 7777;
