@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 /**
- * @author Dora Di
+ * @author Rasmus Lynge Jacobsen, Magnus Albeck Klitmose, Mathias Baunsgaard Kristensen
  * 
  * @param ip
  */
